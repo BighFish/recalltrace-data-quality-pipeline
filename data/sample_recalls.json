@@ -1,0 +1,59 @@
+[
+  {
+    "recall_number": "F-1000-2026",
+    "product_description": "Frozen vegetables",
+    "recalling_firm": "Sample Foods A",
+    "classification": "Class I",
+    "report_date": "20261001",
+    "reason_for_recall": "Possible contamination",
+    "other_field": "not needed"
+  },
+  {
+    "recall_number": "F-1001-2026",
+    "product_description": "Bottled juice",
+    "recalling_firm": "Sample Foods B",
+    "classification": "Class II",
+    "report_date": "20261002",
+    "reason_for_recall": "Incorrect label"
+  },
+  {
+    "recall_number": "F-1000-2026",
+    "product_description": "Frozen vegetables",
+    "recalling_firm": "Sample Foods A",
+    "classification": "Class I",
+    "report_date": "20261001",
+    "reason_for_recall": "Possible contamination"
+  },
+  {
+    "recall_number": "F-1002-2026",
+    "product_description": "",
+    "recalling_firm": "Sample Foods C",
+    "classification": "Class III",
+    "report_date": "20261003",
+    "reason_for_recall": "Packaging defect"
+  },
+  {
+    "recall_number": "F-1003-2026",
+    "product_description": "Packaged pasta",
+    "recalling_firm": "Sample Foods D",
+    "classification": "Class II",
+    "report_date": "20261345",
+    "reason_for_recall": "Undeclared ingredient"
+  },
+  {
+    "recall_number": "F-1004-2026",
+    "product_description": "Canned beans",
+    "recalling_firm": "Sample Foods E",
+    "classification": "Not Yet Classified",
+    "report_date": "20261004",
+    "reason_for_recall": "Quality concern"
+  },
+  {
+    "recall_number": "F-1005-2026",
+    "product_description": "Chocolate bar",
+    "recalling_firm": "Sample Foods F",
+    "classification": "Class X",
+    "report_date": "20261005",
+    "reason_for_recall": "Undeclared ingredient"
+  }
+]

@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+data/raw_recalls.json
+data/cleaned_recalls.json
+data/valid_recalls.json
+data/rejected_recalls.json
+data/final_recalls.json
+data/final_recalls.csv
+data/quality_report.json
+data/async_recalls.json
